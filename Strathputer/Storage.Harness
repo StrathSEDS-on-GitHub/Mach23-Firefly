@@ -1,0 +1,2 @@
+Flash_Data=Flash_NCS,Flash_CLK,Flash_IO_0,Flash_IO_1,Flash_IO_2,Flash_IO_3
+SDIO=SDIO_D2,SDIO_D3,SDIO_CM,SDIO_CK,SDIO_D0,SDIO_D1,SD_Detect

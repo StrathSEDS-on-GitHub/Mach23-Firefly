@@ -1,0 +1,2 @@
+Radio_extra=Radio_BUSY,Radio_DIO1,Radio_NRESET
+Radio_SPI=Radio_MOSI,Radio_MISO,Radio_SCK,Radio_NSS

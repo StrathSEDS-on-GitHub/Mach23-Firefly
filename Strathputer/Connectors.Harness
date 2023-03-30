@@ -1,0 +1,7 @@
+GPIO=UART2_TX,UART2_RX,SPI2_MOSI,SPI2_MISO,SPI2_SCK,GPIO1,GPIO2,GPIO3
+GPS=GPS_RX,GPS_TX,GPS_LED
+Power_Connectors=MainSwitch_Low,Bat_+,Umbilical_High
+Pyro_Connectors=Pyro_High_1,Pyro_High_2,Pyro_Interlock,Pyro_Low_1,Pyro_Low_2
+Solar_Data=Solar_SDA,Solar_SCL,Solar_VSense
+STLink=SWIO,SWCLK,NRESET
+USB_Data=DN,DP

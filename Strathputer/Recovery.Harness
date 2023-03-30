@@ -1,0 +1,2 @@
+Pyro_Connectors=Pyro_High_1,Pyro_Low_1,Pyro_High_2,Pyro_Low_2,Pyro_Interlock
+Pyro_Control=Pyro_Fire_1,Pyro_Fire_2,Pyro_Enable
