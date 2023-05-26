@@ -1,7 +1,17 @@
 # Firefly
 Archival repository for the Firefly Project. Casually referred to as Universal Mainboard within StrathSEDS. It is the spirit successor of SHAMANBoard.
 
-Firefly is ... [TODO]
+Firefly is modular flight computer aimed at model rockets. Its most important features are:
+ - STM32F412 MCU
+ - GNSS navigation
+ - 2 double protected pyro channels
+ - 9DoF IMU
+ - BMP581 based pressure altimeter
+ - UART, SPI, I2C and GPIO expansion headers
+ - NeoPixel compatible RGB LEDs
+ - W25Q flash and SDCard support for logging
+ - LLCC68 based LoRa radio
+ - USB-C 😎
 ![render of the PCB](Main.png)
 
 You can use the Outjob files for generating manufacturing files, all of which are included in the JLCPCB folder
