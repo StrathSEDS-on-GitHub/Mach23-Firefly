@@ -7,7 +7,7 @@ Firefly is ... [TODO]
 You can use the Outjob files for generating manufacturing files, all of which are included in the JLCPCB folder
 
 # Known Issues
- - QSPI IO2 connected to PE4 not PE3
+ - QSPI IO2 connected to PE3 not PE2
  - IMU BOOT pin tied low instead of high
  - Payload board I2C pins swapped
  - Umbilical regulator capacitor reversed
